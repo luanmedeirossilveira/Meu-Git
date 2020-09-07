@@ -1,6 +1,17 @@
-# Meu Git
- git teste
+# Meu projeto Git
 
- Adicionando algumas linhas
+[![HitCount](https://github.com/luanmedeirossilveira/Meu-Git)](https://github.com/luanmedeirossilveira/Meu-Git)
 
- Outro teste
+## Objetivo do Projeto
+
+## Comandos que preciso para rodar
+
+## Layout
+
+## Como foi colocado em Produção
+
+## Quais tec utilizei
+
+## Qual a licença
+
+## Agradecimentos
