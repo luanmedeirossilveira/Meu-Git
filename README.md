@@ -1,6 +1,6 @@
 # Meu projeto Git
 
-![GitHub search hit counter](https://img.shields.io/github/search/luanmedeirossilveira/Meu-Git/README.md)
+![Visualizações](https://img.shields.io/github/search/luanmedeirossilveira/Meu-Git/README.md)
 
 ## Objetivo do Projeto
 
